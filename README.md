@@ -1,1 +1,2 @@
-# Extrair-informa-es
+### Extração de Informações
+Cansado de downloads que consomem memória e demoram uma eternidade? Meu código revoluciona a forma como você acessa dados! Ele extrai informações de linhas e colunas específicas diretamente de arquivos online, utilizando apenas a URL e o nome do arquivo. Com isso, você evita o download completo, otimiza o uso da sua máquina e agiliza o seu fluxo de trabalho de forma significativa.
